@@ -24,3 +24,8 @@ See Project_brief for more info
 - Week 7: analyse.py reads wards.csv, converts each area and classifies each ward.
   
 - Week 8: inspect_data.py summaries the DBH and height of my sample trees
+
+
+## Month 3: geospatial Python and automation 
+- Week 10: GeoPandas exploration, join and maps
+
