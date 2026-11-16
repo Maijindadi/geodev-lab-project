@@ -9,7 +9,7 @@ __pycache__
 *.tif
 *.TIF
 *.zip
-*.gpkg
+
 
 # Editor and system clutter 
 .DS_Store
