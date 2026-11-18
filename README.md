@@ -28,6 +28,7 @@ See Project_brief for more info
 
 ## Month 3: geospatial Python and automation 
 - Week 10: GeoPandas exploration, join and maps
+-  Week 11: CRS and spatial operations. Reprojected to EPSG:[32631] and measured distance in nearest facilities in km.
 
 
 
