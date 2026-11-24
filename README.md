@@ -28,8 +28,12 @@ See Project_brief for more info
 
 ## Month 3: geospatial Python and automation 
 - Week 10: GeoPandas exploration, join and maps
+<<<<<<< HEAD
 Week 11: CRS and spatial operations. Reprojected to EPSG: 32631 and measured [what you measured].
 - Week 12: Rasters. Computed ndvi for ibadan north and summarised it per wards.
+=======
+-  Week 11: CRS and spatial operations. Reprojected to EPSG:[32631] and measured distance in nearest facilities in km.
+>>>>>>> c904cb0aedf6cc0bda7b3462a35c3db585a879e8
 
 
 
